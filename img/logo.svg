@@ -1,0 +1,16 @@
+<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="258" width="951" y="-1" x="-1"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <text stroke="null" transform="matrix(1.2656140584915159,0,0,1.2656140584915159,-171.31143695730654,-61.787884036935154) " font-style="italic" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="250" id="svg_6" y="231.210019" x="121.666983" stroke-opacity="null" stroke-width="0" fill="#333333">O</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="250" id="svg_7" y="244.453125" x="123.5" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ff003c">x</text>
+  <text font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="250" id="svg_8" y="241.453125" x="465" stroke-opacity="null" stroke-width="0" stroke="null" fill="#02d7f2">e</text>
+  <text font-weight="normal" stroke="null" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="155" id="svg_9" y="245.453125" x="563" stroke-opacity="null" stroke-width="0" fill="#000000">'s sit</text>
+  <text font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="250" id="svg_1" y="243.453125" x="256" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">in</text>
+  <text font-weight="normal" stroke="null" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="155" id="svg_2" y="244.453125" x="874" stroke-opacity="null" stroke-width="0" fill="#02d7f2">e</text>
+ </g>
+</svg>
